@@ -1,0 +1,13 @@
+#
+#Unreal Generaterd Files
+#
+unreal/Building Escape/BuildingEscape/Binaries/
+unreal/Building Escape/BuildingEscape/Build
+unreal/Building Escape/BuildingEscape/DericedDataCache
+unreal/Building Escape/BuildingEscape/Intermediate
+unreal/Building Escape/BuildingEscape/Saved
+unreal/Building Escape/BuildingEscape/Content/StarterContent
+#
+#VS Generaterd Files
+#
+*.db
